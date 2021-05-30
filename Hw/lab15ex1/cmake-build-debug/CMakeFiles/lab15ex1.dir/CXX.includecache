@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shank/Desktop/lab15ex1/main.cpp
+iostream
+-
+tv.h
+/Users/shank/Desktop/lab15ex1/tv.h
+
+/Users/shank/Desktop/lab15ex1/tv.cpp
+iostream
+-
+tv.h
+/Users/shank/Desktop/lab15ex1/tv.h
+
+/Users/shank/Desktop/lab15ex1/tv.h
+

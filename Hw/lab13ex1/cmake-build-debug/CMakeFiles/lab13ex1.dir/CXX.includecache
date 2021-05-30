@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Desktop/C,C++/Hw/lab13ex1/main.cpp
+iostream
+-
+stero.h
+D:/Desktop/C,C++/Hw/lab13ex1/stero.h
+
+D:/Desktop/C,C++/Hw/lab13ex1/stero.h
+iostream
+-
+
